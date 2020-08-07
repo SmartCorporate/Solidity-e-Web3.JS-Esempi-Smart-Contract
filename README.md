@@ -1,7 +1,6 @@
-# Solidity-e-Web3.JS-Esempi-Smart-Contract
+# Solidity-e-Web3.JS-Esempi-Smart-Contract aggiornato 2020
 Serie di esempi/lezioni scrittura smart contract con solidity usando il tool REMIX, scritti su blockchain ethereum e interfacciando il tutto con web3JS.
 
-Dovrete aver preventivamente installato sul vostro pc NODE.JS e WEB3.JS
 
 usare il tool online REMIX per gli esempi di smartcontract che ho depositato:
 https://remix.ethereum.org
@@ -11,5 +10,7 @@ https://metamask.io/
 
 seguitemi anche su youtube per altri video su crypto e tecnologie:
 https://www.youtube.com/channel/UCAmy-Ly1JX3icDREI3w3vcg
+
+Dovrete aver preventivamente installato sul vostro pc NODE.JS e WEB3.JS
 
 Buona Programmazione.
