@@ -1,0 +1,14 @@
+Usare REMIX per programmare in SOLIDITY da :
+https://remix.ethereum.org/
+
+Connettere il Proprio METAMASK
+
+Per Deployare il contratto bisogna:
+-essere su INJECTED WEB3
+-essere su MAINNET (si puo provare a usare RASPNET per fare i test iniziali)
+-selezionare il contratto .SOL che si desidera deployare
+-premere Deploy
+-alla richiesta aggiustare a piacimento il gas fee fino ad un prezzo ragionevole
+-procedere confermando su METAMASK e attendere la transazione.
+-appena attivo andare su DEPLOYED CONTRACT (o lo vedi anche da etherscan) copiarlo e fare ADD token su METAMASK
+-i tuoi token saranno nel tuo portafoglio
